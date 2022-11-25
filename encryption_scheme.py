@@ -5,7 +5,7 @@ inp_raw_str= str(input("Your sentence:"))
 
 substitution={'a':'а',
               'b':'б',
-              'c':'в	',
+              'c':'в',
               'd':'г',
               'e':'д',
               'f':'е',
